@@ -1,4 +1,4 @@
-# threads-private-api
+# Threads Private API
 
 This repository aims to demonstrate how to use the `rocketapi` Python library to interact with the Threads API of the RocketAPI.io service. The two main functionalities provided are the ability to scrape user followers and extract thread replies from Threads. 
 
@@ -19,7 +19,7 @@ This repository aims to demonstrate how to use the `rocketapi` Python library to
 
 ## Scrape Followers
 
-https://raw.githubusercontent.com/rocketapi-io/threads-private-api/main/videos/scrape_followers_example.mp4
+https://github.com/rocketapi-io/threads-private-api/assets/115935691/2051353f-ebf5-482c-924a-4300106b9524
 
 The `scrape_followers.py` script is used to scrape followers from a specific user on Threads, given their username or user ID as input. 
 
@@ -63,7 +63,7 @@ Please ensure that the `ROCKETAPI_TOKEN` in your `.env` file is set correctly to
 
 ## Extract Thread Replies
 
-https://raw.githubusercontent.com/rocketapi-io/threads-private-api/main/videos/extrach_thread_replies_example.mp4
+https://github.com/rocketapi-io/threads-private-api/assets/115935691/bd6ede40-c7e1-480c-8b47-b4367f3e6a28
 
 The `extract_thread_replies.py` is designed to scrape replies from a specific thread on Threads using the RocketAPI. 
 
